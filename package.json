@@ -1,0 +1,20 @@
+
+{
+  "name": "caribbean-vibes-theme",
+  "displayName": "Caribbean Vibes Theme",
+  "publisher": "John Facey",
+  "description": "A Caribbean-inspired VSCode theme with tropical colors.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Caribbean Vibes",
+        "uiTheme": "vs-dark",
+        "path": "./themes/caribbean-vibes-color-theme.json"
+      }
+    ]
+  }
+}
