@@ -2,9 +2,10 @@
 {
   "name": "caribbean-vibes-theme",
   "displayName": "Caribbean Vibes Theme",
-  "publisher": "John Facey",
+  "publisher": "JohnFacey",
+  "homepage": "https://github.com/johnfacey/caribbean-vibes-theme",
   "description": "A Caribbean-inspired VSCode theme with tropical colors.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.50.0"
   },
@@ -16,5 +17,24 @@
         "path": "./themes/caribbean-vibes-color-theme.json"
       }
     ]
-  }
+  },
+  "maintainers": [
+    "John Facey"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnfacey/caribbean-vibes-theme.git"
+  },
+  "keywords": [
+    "caribbean",
+    "vibes",
+    "theme",
+    "color-theme"
+  ],
+  "icon": "icon.png",
+	"galleryBanner": {
+		"color": "#002b36",
+		"theme": "dark"
+	}
 }
+
