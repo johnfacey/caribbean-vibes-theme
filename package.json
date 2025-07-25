@@ -5,7 +5,7 @@
   "publisher": "JohnFacey",
   "homepage": "https://github.com/johnfacey/caribbean-vibes-theme",
   "description": "A Caribbean-inspired VSCode theme with tropical colors.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.50.0"
   },
